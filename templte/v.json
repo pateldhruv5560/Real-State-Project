@@ -1,0 +1,76 @@
+{
+  "viewuser": [
+    {
+      "imgSrc": "assets/images/property-01.jpg",
+      "price": "$2,284,000",
+      "category": "Luxury ",
+      "address": "18 New Street Miami, OR 97219",
+      "bedrooms": "7",
+      "bathrooms": "3",
+      "area": "600m2",
+      "floor": 3,
+      "parking": "10 sport",
+      "id": "1586"
+    },
+    {
+      "imgSrc": "assets/images/property-02.jpg",
+      "price": "$3,180,000",
+      "category": "Luxury Villa",
+      "address": "54 Mid Street Florida, OR 27001",
+      "bedrooms": "7",
+      "bathrooms": 5,
+      "area": "450m2",
+      "floor": 3,
+      "parking": "8 spots",
+      "id": "513e"
+    },
+    {
+      "imgSrc": "assets/images/property-03.jpg",
+      "category": "Luxury Villa",
+      "price": "$1,460,000",
+      "address": "26 Old Street Miami, OR 38540",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": "225m2",
+      "floor": 3,
+      "parking": "10 spots",
+      "id": "57da"
+    },
+    {
+      "imgSrc": "assets/images/property-04.jpg",
+      "category": "Apartment",
+      "price": "$584,500",
+      "address": "12 New Street Miami, OR 12650",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": "125m2",
+      "floor": "25th",
+      "parking": "2 cars",
+      "id": "6ccf"
+    },
+    {
+      "imgSrc": "assets/images/property-05.jpg",
+      "category": "Penthouse",
+      "price": "$925,600",
+      "address": "34 Beach Street Miami, OR 42680",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": "180m2",
+      "floor": "38th",
+      "parking": "2 cars",
+      "id": "d01a"
+    },
+    {
+      "imgSrc": "assets/images/property-06.jpg",
+      "category": "Condo",
+      "price": "$450,000",
+      "address": "22 New Street Portland, OR 16540",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": "165m2",
+      "floor": "26th",
+      "parking": "3 cars",
+      "id": "4af6"
+    }
+  ]
+}

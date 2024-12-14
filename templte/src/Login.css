@@ -1,0 +1,28 @@
+/* Login.css */
+
+#logcontainer{
+    max-width: 400px;
+  
+    background-color: white; 
+    padding: 20px;
+    border-radius: 5px; 
+    position:absolute; 
+    left:30%;
+    margin: auto;
+     top:20%;
+    z-index:2;
+ 
+  } 
+  
+  .tab-content {
+    margin-top: 20px; /* margin for tab content */
+  }
+
+
+
+#logcontainer{
+  border:1px solid black;
+  position: relative;
+  top:100px;
+  left:100px;
+}
